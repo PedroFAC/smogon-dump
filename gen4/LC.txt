@@ -1,0 +1,2960 @@
+Abra (M) @ Life Orb  
+Ability: Inner Focus  
+Level: 5  
+EVs: 240 SpA / 200 Spe  
+Timid Nature  
+IVs: 4 SpA / 8 SpD / 21 Spe  
+- Substitute  
+- Psychic  
+- Signal Beam  
+- Encore  
+
+Abra (F) @ Light Clay  
+Ability: Inner Focus  
+Level: 5  
+EVs: 236 HP / 76 Def / 196 Spe  
+Timid Nature  
+IVs: 28 Def / 17 SpA / 4 Spe  
+- Reflect  
+- Light Screen  
+- Encore  
+- Psychic  
+
+Abra (M) @ Choice Scarf  
+Ability: Synchronize  
+Level: 5  
+EVs: 240 SpA / 200 Spe  
+Modest Nature  
+IVs: 23 Atk / 28 SpD / 7 Spe  
+- Psychic  
+- Signal Beam  
+- Hidden Power [Steel]  
+- Trick  
+
+Aipom (F) @ Life Orb  
+Ability: Run Away  
+Level: 5  
+EVs: 76 HP / 196 Atk / 236 Spe  
+Jolly Nature  
+IVs: 27 Atk / 23 Def / 6 SpD  
+- Fake Out  
+- Return  
+- Shadow Claw  
+- U-turn  
+
+Anorith (F) @ Choice Band  
+Ability: Battle Armor  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Adamant Nature  
+IVs: 11 HP / 18 Def / 20 SpA  
+- Rock Slide  
+- X-Scissor  
+- Brick Break  
+- Body Slam  
+
+Anorith (F) @ Focus Sash  
+Ability: Battle Armor  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+IVs: 5 Atk / 27 SpD / 4 Spe  
+- Stealth Rock  
+- Rapid Spin  
+- X-Scissor  
+- Brick Break  
+
+Anorith (M) @ Life Orb  
+Ability: Battle Armor  
+Level: 5  
+EVs: 236 Atk / 116 Def / 156 Spe  
+Adamant Nature  
+IVs: 0 HP / 13 Def / 6 Spe  
+- Rock Polish  
+- Rock Slide  
+- X-Scissor  
+- Brick Break  
+
+Anorith (F) @ Life Orb  
+Ability: Battle Armor  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Adamant Nature  
+IVs: 18 HP / 10 Atk / 17 Spe  
+- Swords Dance  
+- Rock Slide  
+- X-Scissor  
+- Brick Break  
+
+Aron (M) @ Oran Berry  
+Ability: Rock Head  
+Level: 5  
+EVs: 116 HP / 196 Atk / 196 Spe  
+Jolly Nature  
+IVs: 10 HP / 4 SpA / 11 Spe  
+- Head Smash  
+- Substitute  
+- Iron Head  
+- Rock Polish  
+
+Aron (M) @ Life Orb  
+Ability: Rock Head  
+Level: 5  
+EVs: 116 HP / 196 Atk / 196 Spe  
+Jolly Nature  
+IVs: 8 HP / 10 SpA / 19 Spe  
+- Head Smash  
+- Earthquake  
+- Iron Head  
+- Rock Polish  
+
+Azurill (F) @ Life Orb  
+Ability: Huge Power  
+Level: 5  
+EVs: 116 HP / 196 Atk / 36 Def / 116 SpD  
+Brave Nature  
+IVs: 20 Def / 13 SpA / 21 Spe  
+- Return  
+- Waterfall  
+- Iron Tail  
+- Substitute  
+
+Bagon (M) @ Choice Scarf  
+Ability: Rock Head  
+Level: 5  
+EVs: 236 Atk / 40 Def / 36 SpA / 196 Spe  
+Naive Nature  
+IVs: 12 HP / 13 Atk / 22 SpA  
+- Outrage  
+- Fire Fang  
+- Dragon Claw  
+- Hydro Pump  
+
+Bagon (M) @ Oran Berry  
+Ability: Rock Head  
+Level: 5  
+EVs: 236 Atk / 36 Def / 36 SpD / 196 Spe  
+Adamant Nature  
+IVs: 19 HP / 19 Def / 10 Spe  
+- Dragon Dance  
+- Outrage  
+- Fire Fang  
+- Dragon Claw  
+
+Baltoy @ Oran Berry  
+Ability: Levitate  
+Level: 5  
+EVs: 196 HP / 236 Def / 36 SpA / 36 SpD  
+Bold Nature  
+IVs: 25 HP / 11 Atk / 9 Def  
+- Stealth Rock  
+- Rapid Spin  
+- Shadow Ball  
+- Earth Power  
+
+Baltoy @ Muscle Band  
+Ability: Levitate  
+Level: 5  
+EVs: 196 HP / 196 Atk / 76 Def / 36 SpD  
+Relaxed Nature  
+IVs: 18 HP / 2 Def / 6 Spe  
+- Trick Room  
+- Earthquake  
+- Stealth Rock  
+- Explosion  
+
+Baltoy @ Light Clay  
+Ability: Levitate  
+Level: 5  
+EVs: 196 HP / 196 Atk / 76 Def / 36 SpD  
+Impish Nature  
+IVs: 16 HP / 6 Atk / 19 SpA  
+- Reflect  
+- Light Screen  
+- Stealth Rock  
+- Explosion  
+
+Baltoy @ Choice Scarf  
+Ability: Levitate  
+Level: 5  
+EVs: 36 HP / 36 Atk / 196 SpA / 236 Spe  
+Mild Nature  
+IVs: 12 Atk / 20 Def / 13 Spe  
+- Earth Power  
+- Psychic  
+- Ice Beam  
+- Explosion  
+
+Barboach (M) @ Oran Berry  
+Ability: Anticipation  
+Level: 5  
+EVs: 36 HP / 212 Atk / 12 Def / 28 SpD / 196 Spe  
+Adamant Nature  
+IVs: 14 Atk / 28 SpD / 3 Spe  
+- Dragon Dance  
+- Earthquake  
+- Waterfall  
+- Return  
+
+Barboach (F) @ Choice Scarf  
+Ability: Anticipation  
+Level: 5  
+EVs: 36 HP / 212 Atk / 12 Def / 28 SpD / 196 Spe  
+Adamant Nature  
+IVs: 15 Def / 25 SpD  
+- Earthquake  
+- Waterfall  
+- Return  
+- Spark  
+
+Beldum @ Oran Berry  
+Ability: Clear Body  
+Level: 5  
+EVs: 236 Atk / 236 Def / 38 Spe  
+Adamant Nature  
+IVs: 20 Atk / 15 Def / 4 Spe  
+- Iron Head  
+- Zen Headbutt  
+- Headbutt  
+- Iron Defense  
+
+Bellsprout (F) @ Life Orb  
+Ability: Chlorophyll  
+Level: 5  
+EVs: 36 HP / 236 Atk / 36 SpD / 196 Spe  
+Jolly Nature  
+IVs: 11 HP / 9 SpA / 3 SpD  
+- Swords Dance  
+- Seed Bomb  
+- Sucker Punch  
+- Sleep Powder  
+
+Bellsprout (F) @ Life Orb  
+Ability: Chlorophyll  
+Level: 5  
+EVs: 76 Def / 196 SpA / 36 SpD / 196 Spe  
+Timid Nature  
+IVs: 6 HP / 6 Atk / 24 SpD  
+- Solar Beam  
+- Sludge Bomb  
+- Weather Ball  
+- Sleep Powder  
+
+Bidoof (M) @ Oran Berry  
+Ability: Simple  
+Level: 5  
+EVs: 204 HP / 236 Atk / 36 Def  
+Adamant Nature  
+IVs: 12 Def / 19 Spe  
+- Curse  
+- Quick Attack  
+- Return  
+- Aqua Tail  
+
+Bidoof (M) @ Oran Berry  
+Ability: Simple  
+Level: 5  
+EVs: 204 HP / 40 Def / 240 SpA  
+Modest Nature  
+IVs: 28 HP / 12 SpA / 7 Spe  
+- Charge Beam  
+- Thunderbolt  
+- Ice Beam  
+- Hidden Power [Grass]  
+
+Bidoof (F) @ Oran Berry  
+Ability: Unaware  
+Level: 5  
+EVs: 204 HP / 196 Def / 36 SpD  
+Quiet Nature  
+IVs: 1 Atk / 29 Def / 2 SpD  
+- Ice Beam  
+- Thunderbolt  
+- Quick Attack  
+- Return  
+
+Bidoof (M) @ Oran Berry  
+Ability: Simple  
+Level: 5  
+EVs: 44 HP / 236 Atk / 36 Def / 188 Spe  
+Jolly Nature  
+IVs: 19 Atk / 10 SpA / 24 SpD  
+- Substitute  
+- Return  
+- Quick Attack  
+- Aqua Tail  
+
+Bonsly (F) @ Life Orb  
+Ability: Rock Head  
+Level: 5  
+EVs: 116 HP / 196 Atk / 196 Spe  
+Jolly Nature  
+IVs: 20 HP / 29 Atk / 9 SpD  
+- Rock Polish  
+- Rock Slide  
+- Sucker Punch  
+- Explosion  
+
+Bronzor @ Oran Berry  
+Ability: Levitate  
+Level: 5  
+EVs: 220 HP / 8 Atk / 152 Def / 4 SpA / 68 SpD / 12 Spe  
+Relaxed Nature  
+IVs: 22 Def / 0 SpD / 11 Spe  
+- Stealth Rock  
+- Earthquake  
+- Psychic  
+- Hidden Power [Ghost]  
+
+Bronzor @ Oran Berry  
+Ability: Levitate  
+Level: 5  
+EVs: 220 HP / 148 Def / 4 SpA / 68 SpD / 12 Spe  
+Bold Nature  
+IVs: 11 HP / 10 Atk / 6 Spe  
+- Calm Mind  
+- Psychic  
+- Flash Cannon  
+- Recycle  
+
+Budew (F) @ Oran Berry  
+Ability: Swift Swim  
+Level: 5  
+EVs: 236 Atk / 36 SpD / 236 Spe  
+Jolly Nature  
+IVs: 15 HP / 13 Def / 28 Spe  
+- Spikes  
+- Energy Ball  
+- Stun Spore  
+- Rest  
+- Waterfall  
+- Aqua Jet  
+- Return  
+- Bulk Up  
+
+Buizel (F) @ Oran Berry  
+Ability: Swift Swim  
+Level: 5  
+EVs: 236 HP / 36 SpD / 236 Spe  
+Jolly Nature  
+IVs: 11 Atk / 7 Def / 8 SpA  
+- Bulk Up  
+- Baton Pass  
+- Aqua Jet  
+- Return  
+
+Bulbasaur (M) @ Choice Scarf  
+Ability: Overgrow  
+Level: 5  
+EVs: 240 SpA / 240 Spe  
+Modest Nature  
+IVs: 5 SpA / 17 SpD / 10 Spe  
+- Sleep Powder  
+- Sludge Bomb  
+- Leaf Storm  
+- Hidden Power [Ice]  
+
+Buneary (F) @ Focus Sash  
+Ability: Run Away  
+Level: 5  
+EVs: 228 Atk / 4 Def / 236 Spe  
+Jolly Nature  
+IVs: 14 Def / 0 SpD / 13 Spe  
+- Fake Out  
+- Quick Attack  
+- Ice Punch  
+- Endeavor  
+
+Buneary (F) @ Choice Band  
+Ability: Run Away  
+Level: 5  
+EVs: 228 Atk / 4 Def / 236 Spe  
+Jolly Nature  
+IVs: 16 Atk / 20 Def / 16 SpA  
+- Quick Attack  
+- Ice Punch  
+- Thunder Punch  
+- Switcheroo  
+
+Buneary (F) @ Liechi Berry  
+Ability: Run Away  
+Level: 5  
+EVs: 156 HP / 68 Atk / 4 Def / 236 Spe  
+Jolly Nature  
+IVs: 14 HP / 4 Atk / 13 Def  
+- Agility  
+- Baton Pass  
+- Substitute  
+- Quick Attack  
+
+Buneary (F) @ Choice Band  
+Ability: Klutz  
+Level: 5  
+EVs: 236 HP / 4 Def / 236 Spe  
+Jolly Nature  
+IVs: 10 HP / 4 SpD / 22 Spe  
+- Switcheroo  
+- Quick Attack  
+- Thunder Wave  
+- Encore  
+
+Burmy (F) @ Oran Berry  
+Ability: Shed Skin  
+Level: 5  
+EVs: 196 HP / 208 Atk / 80 Def  
+Relaxed Nature  
+IVs: 16 SpA / 9 SpD / 2 Spe  
+- Bug Bite  
+- String Shot  
+- Protect  
+- Hidden Power [Water]  
+
+Cacnea (M) @ Oran Berry  
+Ability: Sand Veil  
+Level: 5  
+EVs: 36 HP / 236 Atk / 236 Spe  
+Adamant Nature  
+IVs: 27 HP / 3 Atk / 23 SpD  
+- Swords Dance  
+- Sucker Punch  
+- Focus Punch  
+- Substitute  
+
+Cacnea (M) @ Life Orb  
+Ability: Sand Veil  
+Level: 5  
+EVs: 36 HP / 156 Atk / 76 SpA / 236 Spe  
+Naive Nature  
+IVs: 27 HP / 7 Def / 15 SpA  
+- Sucker Punch  
+- Brick Break  
+- Seed Bomb  
+- Hidden Power [Dark]  
+
+Cacnea (M) @ Choice Scarf  
+Ability: Sand Veil  
+Level: 5  
+EVs: 36 HP / 156 Atk / 76 SpA / 236 Spe  
+Hasty Nature  
+IVs: 9 SpA / 18 Spe  
+- Dark Pulse  
+- Brick Break  
+- Needle Arm  
+- Hidden Power [Ice]  
+
+Carvanha (M) @ Life Orb  
+Ability: Rough Skin  
+Level: 5  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
+Adamant Nature  
+IVs: 12 Atk / 21 Def / 28 SpD  
+- Substitute  
+- Aqua Jet  
+- Crunch  
+- Zen Headbutt  
+
+Carvanha (M) @ Choice Scarf  
+Ability: Rough Skin  
+Level: 5  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
+Jolly Nature  
+IVs: 13 Def / 8 SpA / 30 Spe  
+- Aqua Jet  
+- Waterfall  
+- Crunch  
+- Zen Headbutt  
+
+Charmander (M) @ Oran Berry  
+Ability: Blaze  
+Level: 5  
+EVs: 44 HP / 180 Atk / 12 Def / 36 SpD / 236 Spe  
+Adamant Nature  
+IVs: 1 HP / 17 SpA / 24 SpD  
+- Dragon Dance  
+- Flare Blitz  
+- Brick Break  
+- Thunder Punch  
+
+Cherubi (F) @ Heat Rock  
+Ability: Chlorophyll  
+Level: 5  
+EVs: 76 HP / 184 SpA / 240 Spe  
+Modest Nature  
+IVs: 27 Def / 13 SpA / 12 Spe  
+- Sunny Day  
+- Solar Beam  
+- Hidden Power [Ice]  
+- Growth  
+
+Chikorita (M) @ Oran Berry  
+Ability: Overgrow  
+Level: 5  
+EVs: 236 HP / 156 Def / 76 SpD  
+Calm Nature  
+IVs: 21 HP / 8 Atk / 13 SpD  
+- Reflect  
+- Light Screen  
+- Leaf Storm  
+- Worry Seed  
+
+Chimchar (F) @ Focus Sash  
+Ability: Blaze  
+Level: 5  
+EVs: 4 HP / 56 Atk / 216 SpA / 4 SpD / 188 Spe  
+Hasty Nature  
+IVs: 8 HP / 23 Atk / 5 SpD  
+- Fake Out  
+- Overheat  
+- Hidden Power [Dragon]  
+- Stealth Rock  
+
+Chinchou (M) @ Oran Berry  
+Ability: Volt Absorb  
+Level: 5  
+EVs: 52 Def / 232 SpA / 220 Spe  
+Timid Nature  
+IVs: 18 HP / 9 SpA / 23 SpD  
+- Hydro Pump  
+- Thunderbolt  
+- Agility  
+- Hidden Power [Dragon]  
+
+Chingling (F) @ Oran Berry  
+Ability: Levitate  
+Level: 5  
+EVs: 236 HP / 36 Def / 236 Spe  
+Timid Nature  
+IVs: 10 Atk / 21 SpD / 19 Spe  
+- Hypnosis  
+- Thunder Wave  
+- Heal Bell  
+- Psychic  
+
+Cleffa (M) @ Focus Sash  
+Ability: Magic Guard  
+Level: 5  
+EVs: 8 Spe  
+Hasty Nature  
+IVs: 22 HP / 30 SpA / 20 Spe  
+- Endeavor  
+- Protect  
+- Toxic  
+- Encore  
+
+Corphish (M) @ Life Orb  
+Ability: Shell Armor  
+Level: 5  
+EVs: 196 Atk / 76 Def / 236 Spe  
+Jolly Nature  
+IVs: 3 Atk / 12 SpA / 6 SpD  
+- Dragon Dance  
+- Waterfall  
+- Return  
+- Crunch  
+
+Cranidos (F) @ Choice Scarf  
+Ability: Mold Breaker  
+Level: 5  
+EVs: 60 HP / 236 Atk / 212 Spe  
+Adamant Nature  
+IVs: 19 HP / 15 SpA / 15 Spe  
+- Head Smash  
+- Stone Edge  
+- Earthquake  
+- Zen Headbutt  
+
+Cranidos (F) @ Life Orb  
+Ability: Mold Breaker  
+Level: 5  
+EVs: 60 HP / 236 Atk / 212 Spe  
+Adamant Nature  
+IVs: 19 Atk / 26 Def / 15 SpD  
+- Rock Polish  
+- Stone Edge  
+- Earthquake  
+- Zen Headbutt  
+
+Cranidos (F) @ Life Orb  
+Ability: Mold Breaker  
+Level: 5  
+EVs: 210 HP / 236 Atk / 36 SpD  
+Brave Nature  
+IVs: 23 HP / 30 SpA / 17 SpD  
+- Stone Edge  
+- Earthquake  
+- Zen Headbutt  
+- Ice Beam  
+
+Croagunk (M) @ Oran Berry  
+Ability: Dry Skin  
+Level: 5  
+EVs: 52 HP / 36 Def / 188 SpA / 36 SpD / 196 Spe  
+Modest Nature  
+IVs: 4 Def / 27 SpA / 1 Spe  
+- Shadow Ball  
+- Focus Blast  
+- Vacuum Wave  
+- Icy Wind  
+
+Cubone (M) @ Thick Club  
+Ability: Rock Head  
+Level: 5  
+EVs: 196 HP / 196 Atk / 76 Def / 36 SpD  
+Adamant Nature  
+IVs: 12 Def / 8 SpA / 27 Spe  
+- Earthquake  
+- Double-Edge  
+- Fire Punch  
+- Substitute  
+
+Cubone (F) @ Thick Club  
+Ability: Rock Head  
+Level: 5  
+EVs: 36 HP / 196 Atk / 36 SpD / 236 Spe  
+Jolly Nature  
+IVs: 1 HP / 13 Atk / 13 Def  
+- Earthquake  
+- Double-Edge  
+- Fire Punch  
+- Swords Dance  
+
+Cyndaquil (M) @ Choice Scarf  
+Ability: Blaze  
+Level: 5  
+EVs: 44 HP / 24 Atk / 200 SpA / 236 Spe  
+Rash Nature  
+IVs: 7 HP / 30 Atk / 28 Spe  
+- Eruption  
+- Hidden Power [Psychic]  
+- Double Kick  
+- Fire Blast  
+
+Doduo (F) @ Life Orb  
+Ability: Early Bird  
+Level: 5  
+EVs: 240 Atk / 240 Spe  
+Naughty Nature  
+IVs: 6 Atk / 5 Def  
+- Brave Bird  
+- Return  
+- Quick Attack  
+- Hidden Power [Dragon]  
+
+Doduo (M) @ Life Orb  
+Ability: Early Bird  
+Level: 5  
+EVs: 236 Atk / 236 Spe  
+Adamant Nature  
+IVs: 4 HP / 15 Atk / 7 Def  
+- Brave Bird  
+- Return  
+- Quick Attack  
+- Roost  
+
+Dratini (F) @ Life Orb  
+Ability: Shed Skin  
+Level: 5  
+EVs: 28 HP / 244 Atk / 36 SpD / 196 Spe  
+Adamant Nature  
+IVs: 20 HP / 18 SpA / 10 Spe  
+- Dragon Dance  
+- Outrage  
+- Waterfall  
+- Extreme Speed  
+
+Dratini (F) @ Life Orb  
+Ability: Shed Skin  
+Level: 5  
+EVs: 244 Atk / 116 SpA / 116 Spe  
+Lonely Nature  
+IVs: 7 Def / 25 Spe  
+- Substitute  
+- Extreme Speed  
+- Fire Blast  
+- Outrage  
+
+Dratini (M) @ Life Orb  
+Ability: Shed Skin  
+Level: 5  
+EVs: 244 Atk / 116 SpA / 116 Spe  
+Lonely Nature  
+IVs: 28 Atk / 18 SpA / 10 SpD  
+- Outrage  
+- Extreme Speed  
+- Fire Blast  
+- Surf  
+
+Dratini (M) @ Focus Sash  
+Ability: Shed Skin  
+Level: 5  
+EVs: 28 HP / 84 Atk / 196 SpA / 196 Spe  
+Hasty Nature  
+IVs: 5 SpA / 7 SpD / 27 Spe  
+- Protect  
+- Draco Meteor  
+- Surf  
+- Extreme Speed  
+
+Dratini (M) @ Choice Scarf  
+Ability: Shed Skin  
+Level: 5  
+EVs: 28 HP / 84 Atk / 196 SpA / 196 Spe  
+Rash Nature  
+IVs: 25 HP / 19 Atk / 30 SpD  
+- Draco Meteor  
+- Ice Beam  
+- Fire Blast  
+- Outrage  
+
+Drifloon (F) @ Oran Berry  
+Ability: Unburden  
+Level: 5  
+EVs: 116 HP / 8 Def / 200 SpA / 8 SpD / 120 Spe  
+Modest Nature  
+IVs: 3 HP / 23 Def / 23 Spe  
+- Calm Mind  
+- Shadow Ball  
+- Hidden Power [Dark]  
+- Substitute  
+
+Drifloon (F) @ Oran Berry  
+Ability: Unburden  
+Level: 5  
+EVs: 196 HP / 196 SpA / 116 Spe  
+Modest Nature  
+IVs: 24 Def / 28 SpD / 6 Spe  
+- Substitute  
+- Will-O-Wisp  
+- Shadow Ball  
+- Thunderbolt  
+
+Drifloon (F) @ Petaya Berry  
+Ability: Unburden  
+Level: 5  
+EVs: 196 HP / 8 Def / 200 SpA / 8 SpD / 40 Spe  
+Modest Nature  
+IVs: 12 HP / 10 Atk  
+- Substitute  
+- Shadow Ball  
+- Hidden Power [Dragon]  
+- Thunderbolt  
+
+Drifloon (F) @ Focus Sash  
+Ability: Unburden  
+Level: 5  
+EVs: 116 Atk / 196 SpA / 196 Spe  
+Hasty Nature  
+IVs: 3 HP / 19 Atk / 2 Def  
+- Destiny Bond  
+- Shadow Ball  
+- Sucker Punch  
+- Thunderbolt  
+
+Drifloon (M) @ Choice Scarf  
+Ability: Unburden  
+Level: 5  
+EVs: 116 HP / 4 Def / 196 SpA / 4 SpD / 116 Spe  
+Modest Nature  
+IVs: 24 Atk / 19 SpD / 15 Spe  
+- Trick  
+- Destiny Bond  
+- Sucker Punch  
+- Shadow Ball  
+
+Drifloon (M) @ Damp Rock  
+Ability: Aftermath  
+Level: 5  
+EVs: 196 Atk / 116 SpA / 196 Spe  
+Naive Nature  
+IVs: 0 HP / 7 Atk / 28 Def  
+- Rain Dance  
+- Explosion  
+- Weather Ball  
+- Thunder  
+
+Drowzee (M) @ Oran Berry  
+Ability: Insomnia  
+Level: 5  
+EVs: 212 Atk / 76 Def / 196 SpD / 20 Spe  
+Jolly Nature  
+IVs: 23 HP / 16 Def  
+- Substitute  
+- Focus Punch  
+- Zen Headbutt  
+- Ice Punch  
+
+Drowzee (F) @ Oran Berry  
+Ability: Insomnia  
+Level: 5  
+EVs: 212 Atk / 236 Def / 36 SpD  
+Brave Nature  
+IVs: 21 HP / 22 Def / 14 SpA  
+- Trick Room  
+- Zen Headbutt  
+- Fire Punch  
+- Thunder Punch  
+
+Duskull (F) @ Oran Berry  
+Ability: Levitate  
+Level: 5  
+EVs: 196 HP / 36 Atk / 36 Def / 196 SpD  
+Impish Nature  
+IVs: 8 Def / 0 SpA / 12 SpD  
+- Will-O-Wisp  
+- Thief  
+- Shadow Sneak  
+- Return  
+
+Eevee (F) @ Life Orb  
+Ability: Adaptability  
+Level: 5  
+EVs: 240 Atk / 236 Spe  
+Naughty Nature  
+IVs: 1 HP / 16 Atk / 14 SpA  
+- Return  
+- Quick Attack  
+- Bite  
+- Hidden Power [Grass]  
+
+Eevee (F) @ Choice Band  
+Ability: Adaptability  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Adamant Nature  
+IVs: 24 Atk / 27 SpA / 6 SpD  
+- Return  
+- Quick Attack  
+- Bite  
+- Baton Pass  
+
+Ekans (F) @ Oran Berry  
+Ability: Intimidate  
+Level: 5  
+EVs: 76 HP / 196 Atk / 4 Def / 4 SpD / 156 Spe  
+Adamant Nature  
+IVs: 23 HP / 26 Def / 23 SpD  
+- Glare  
+- Poison Jab  
+- Earthquake  
+- Bite  
+
+Electrike (F) @ Choice Scarf  
+Ability: Static  
+Level: 5  
+EVs: 36 HP / 236 SpA / 236 Spe  
+Modest Nature  
+IVs: 27 Def / 20 SpD / 13 Spe  
+- Thunderbolt  
+- Flamethrower  
+- Switcheroo  
+- Hidden Power [Steel]  
+
+Elekid (F) @ Life Orb  
+Ability: Static  
+Level: 5  
+EVs: 96 Atk / 160 SpA / 236 Spe  
+Hasty Nature  
+IVs: 16 HP / 14 Atk / 4 SpA  
+- Thunderbolt  
+- Hidden Power [Grass]  
+- Low Kick  
+- Ice Punch  
+
+Exeggcute (M) @ Life Orb  
+Ability: Chlorophyll  
+Level: 5  
+EVs: 116 HP / 196 SpA / 196 Spe  
+Naive Nature  
+IVs: 0 Def / 28 Spe  
+- Solar Beam  
+- Psychic  
+- Sleep Powder  
+- Explosion  
+
+Exeggcute (F) @ Light Clay  
+Ability: Chlorophyll  
+Level: 5  
+EVs: 196 HP / 36 Atk / 36 Def / 236 SpD  
+Careful Nature  
+IVs: 3 Atk / 13 Def / 9 Spe  
+- Reflect  
+- Light Screen  
+- Sleep Powder  
+- Explosion  
+
+Exeggcute (M) @ Oran Berry  
+Ability: Chlorophyll  
+Level: 5  
+EVs: 196 HP / 36 Atk / 196 Def / 76 SpD  
+Relaxed Nature  
+IVs: 0 HP / 20 SpD / 14 Spe  
+- Trick Room  
+- Sleep Powder  
+- Psychic  
+- Explosion  
+
+Exeggcute (F) @ Heat Rock  
+Ability: Chlorophyll  
+Level: 5  
+EVs: 196 HP / 116 Def / 196 SpD  
+Calm Nature  
+IVs: 30 Def / 19 SpA / 11 Spe  
+- Sunny Day  
+- Solar Beam  
+- Psychic  
+- Sleep Powder  
+
+Finneon (F) @ Choice Scarf  
+Ability: Swift Swim  
+Level: 5  
+EVs: 204 Atk / 44 SpA / 232 Spe  
+Jolly Nature  
+IVs: 20 Def / 4 SpA / 3 Spe  
+- U-turn  
+- Waterfall  
+- Return  
+- Ice Beam  
+
+Geodude (F) @ Oran Berry  
+Ability: Sturdy  
+Level: 5  
+EVs: 196 HP / 196 Atk / 36 Def / 36 SpD / 36 Spe  
+Adamant Nature  
+IVs: 26 Def / 20 SpA / 13 Spe  
+- Stealth Rock  
+- Sucker Punch  
+- Explosion  
+- Earthquake  
+
+Geodude (F) @ Life Orb  
+Ability: Sturdy  
+Level: 5  
+EVs: 36 HP / 196 Atk / 36 Def / 36 SpD / 196 Spe  
+Adamant Nature  
+IVs: 10 Def / 0 SpA  
+- Rock Polish  
+- Earthquake  
+- Stone Edge  
+- Explosion  
+
+Geodude (M) @ Life Orb  
+Ability: Sturdy  
+Level: 5  
+EVs: 196 Atk / 116 Def / 36 SpD / 116 Spe  
+Adamant Nature  
+IVs: 23 HP / 24 Def / 4 SpD  
+- Fire Punch  
+- Sucker Punch  
+- Stone Edge  
+- Earthquake  
+
+Gligar (M) @ Oran Berry  
+Ability: Sand Veil  
+Level: 5  
+EVs: 156 Atk / 76 Def / 236 Spe  
+Jolly Nature  
+IVs: 18 Def / 27 SpD / 21 Spe  
+- U-turn  
+- Earthquake  
+- Aqua Tail  
+- Stealth Rock  
+
+Gligar (M) @ Choice Scarf  
+Ability: Sand Veil  
+Level: 5  
+EVs: 236 Atk / 236 Spe  
+Jolly Nature  
+IVs: 1 HP / 0 SpA / 23 SpD  
+- U-turn  
+- Earthquake  
+- Aqua Tail  
+- Stone Edge  
+
+Gligar (M) @ Oran Berry  
+Ability: Sand Veil  
+Level: 5  
+EVs: 236 Atk / 236 Spe  
+Jolly Nature  
+IVs: 2 HP / 1 Atk / 25 Spe  
+- Night Slash  
+- Earthquake  
+- Aqua Tail  
+- Swords Dance  
+
+Gible (M) @ Choice Band  
+Ability: Sand Veil  
+Level: 5  
+EVs: 52 HP / 196 Atk / 236 Def / 20 Spe  
+Adamant Nature  
+IVs: 3 HP / 22 Atk / 5 Def  
+- Outrage  
+- Earthquake  
+- Stone Edge  
+- Fire Blast  
+
+Gible (M) @ Choice Scarf  
+Ability: Sand Veil  
+Level: 5  
+EVs: 96 HP / 196 Atk / 36 SpA / 180 Spe  
+Jolly Nature  
+IVs: 30 Atk / 4 SpD / 27 Spe  
+- Outrage  
+- Earthquake  
+- Fire Blast  
+- Stealth Rock  
+
+Gible (F) @ Salac Berry  
+Ability: Sand Veil  
+Level: 5  
+EVs: 96 HP / 196 Atk / 36 SpA / 180 Spe  
+Naive Nature  
+IVs: 5 Atk / 3 Def / 24 SpA  
+- Substitute  
+- Outrage  
+- Earthquake  
+- Fire Blast  
+
+Glameow (M) @ Life Orb  
+Ability: Limber  
+Level: 5  
+EVs: 236 Atk / 20 Def / 236 Spe  
+Jolly Nature  
+IVs: 8 HP / 25 Atk / 28 SpD  
+- Fake Out  
+- Sucker Punch  
+- U-turn  
+- Quick Attack  
+
+Goldeen (F) @ Life Orb  
+Ability: Swift Swim  
+Level: 5  
+EVs: 220 Atk / 36 Def / 252 Spe  
+Adamant Nature  
+IVs: 20 Def / 30 SpA / 5 SpD  
+- Waterfall  
+- Return  
+- Megahorn  
+- Rain Dance  
+
+Grimer (F) @ Life Orb  
+Ability: Sticky Hold  
+Level: 5  
+EVs: 196 HP / 196 Atk / 36 Def / 36 SpD  
+Adamant Nature  
+IVs: 20 HP / 16 SpA / 19 SpD  
+- Gunk Shot  
+- Shadow Sneak  
+- Fire Punch  
+- Explosion  
+
+Growlithe (F) @ Choice Scarf  
+Ability: Intimidate  
+Level: 5  
+EVs: 196 Atk / 116 SpA / 196 Spe  
+Naive Nature  
+IVs: 28 HP / 22 Atk / 6 Def  
+- Flare Blitz  
+- Overheat  
+- Hidden Power [Ice]  
+- Reversal  
+
+Gulpin (F) @ Oran Berry  
+Ability: Sticky Hold  
+Level: 5  
+EVs: 196 HP / 12 Def / 252 SpA / 12 SpD / 36 Spe  
+Modest Nature  
+IVs: 14 SpA / 9 SpD / 21 Spe  
+- Sludge Bomb  
+- Ice Beam  
+- Shadow Ball  
+- Pain Split  
+
+Hoothoot (F) @ Choice Scarf  
+Ability: Insomnia  
+Level: 5  
+EVs: 236 SpA / 68 SpD / 196 Spe  
+Timid Nature  
+IVs: 20 HP / 28 Atk / 30 Def  
+- Air Slash  
+- Psychic  
+- Heat Wave  
+- Shadow Ball  
+
+Hoppip (F) @ Oran Berry  
+Ability: Chlorophyll  
+Level: 5  
+EVs: 236 HP / 36 Def / 196 Spe  
+Jolly Nature  
+IVs: 15 HP / 20 Atk / 3 Spe  
+- Encore  
+- Sleep Powder  
+- Stun Spore  
+- U-turn  
+
+Hoppip (F) @ Heat Rock  
+Ability: Chlorophyll  
+Level: 5  
+EVs: 236 HP / 36 Def / 196 Spe  
+Jolly Nature  
+IVs: 18 HP / 24 Def / 2 SpA  
+- Sunny Day  
+- Sleep Powder  
+- Memento  
+- Encore  
+
+Horsea (M) @ Life Orb  
+Ability: Swift Swim  
+Level: 5  
+EVs: 36 Def / 200 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+IVs: 30 HP / 11 Def / 14 SpA  
+- Rain Dance  
+- Hydro Pump  
+- Ice Beam  
+- Hidden Power [Grass]  
+
+Horsea (F) @ Oran Berry  
+Ability: Swift Swim  
+Level: 5  
+EVs: 36 Def / 200 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+IVs: 9 Atk / 0 Def / 17 SpD  
+- Agility  
+- Surf  
+- Ice Beam  
+- Hidden Power [Dragon]  
+
+Houndour (M) @ Oran Berry  
+Ability: Flash Fire  
+Level: 5  
+EVs: 196 Atk / 36 Def / 36 SpA / 236 Spe  
+Naive Nature  
+IVs: 20 Def / 30 SpA / 19 SpD  
+- Will-O-Wisp  
+- Crunch  
+- Fire Blast  
+- Sucker Punch  
+
+Kabuto (F) @ Life Orb  
+Ability: Swift Swim  
+Level: 5  
+EVs: 196 Atk / 156 SpA / 156 Spe  
+Naughty Nature  
+IVs: 14 Def / 19 SpA / 15 SpD  
+- Waterfall  
+- Rock Slide  
+- Earth Power  
+- Aqua Jet  
+
+Koffing (M) @ Oran Berry  
+Ability: Levitate  
+Level: 5  
+EVs: 36 HP / 196 SpA / 156 SpD / 76 Spe  
+Modest Nature  
+IVs: 12 Atk / 19 SpA / 5 Spe  
+- Sludge Bomb  
+- Fire Blast  
+- Shadow Ball  
+- Will-O-Wisp  
+
+Krabby (F) @ Oran Berry  
+Ability: Shell Armor  
+Level: 5  
+EVs: 36 HP / 236 Atk / 36 Def / 196 Spe  
+Adamant Nature  
+IVs: 11 HP / 23 Atk / 1 Spe  
+- Agility  
+- Crabhammer  
+- Return  
+- Swords Dance  
+
+Krabby (F) @ Choice Scarf  
+Ability: Shell Armor  
+Level: 5  
+EVs: 36 HP / 236 Atk / 36 Def / 196 Spe  
+Adamant Nature  
+IVs: 1 SpA / 14 SpD / 29 Spe  
+- Crabhammer  
+- Return  
+- Rock Slide  
+- Brick Break  
+
+Kricketot (F) @ Focus Sash  
+Ability: Shed Skin  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+IVs: 5 HP / 19 Atk / 0 SpD  
+- Endeavor  
+- String Shot  
+- Bug Bite  
+- Growl  
+
+Larvitar (F) @ Flame Orb  
+Ability: Guts  
+Level: 5  
+EVs: 36 HP / 244 Atk / 36 Def / 188 Spe  
+Adamant Nature  
+IVs: 3 Atk / 2 SpA / 22 SpD  
+- Rock Polish  
+- Earthquake  
+- Stone Edge  
+- Crunch  
+
+Ledyba (F) @ Liechi Berry  
+Ability: Early Bird  
+Level: 5  
+EVs: 196 HP / 36 Def / 36 SpD / 236 Spe  
+Timid Nature  
+IVs: 4 HP / 9 Def / 17 SpA  
+- Agility  
+- Encore  
+- Baton Pass  
+- Substitute  
+
+Ledyba (M) @ Oran Berry  
+Ability: Early Bird  
+Level: 5  
+EVs: 196 HP / 36 Def / 36 SpD / 236 Spe  
+Jolly Nature  
+IVs: 10 Def / 5 SpD / 9 Spe  
+- Reflect  
+- Light Screen  
+- U-turn  
+- Encore  
+
+Ledyba (M) @ Life Orb  
+Ability: Swarm  
+Level: 5  
+EVs: 36 HP / 196 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+IVs: 21 HP / 26 Atk / 27 SpD  
+- Swords Dance  
+- Bug Bite  
+- Mach Punch  
+- Aerial Ace  
+
+Ledyba (M) @ Petaya Berry  
+Ability: Swarm  
+Level: 5  
+EVs: 36 HP / 36 Def / 196 SpA / 236 Spe  
+Modest Nature  
+IVs: 12 Def / 12 SpA / 18 Spe  
+- Agility  
+- Substitute  
+- Bug Buzz  
+- Hidden Power [Fire]  
+
+Lickitung (F) @ Oran Berry  
+Ability: Own Tempo  
+Level: 5  
+EVs: 36 HP / 236 Atk / 196 SpA / 36 Spe  
+Brave Nature  
+IVs: 15 HP / 18 Atk / 18 Def  
+- Body Slam  
+- Power Whip  
+- Fire Blast  
+- Ice Beam  
+
+Lickitung (M) @ Oran Berry  
+Ability: Own Tempo  
+Level: 5  
+EVs: 236 HP / 236 Atk / 36 Spe  
+Adamant Nature  
+IVs: 29 Atk / 5 Def / 8 Spe  
+- Swords Dance  
+- Power Whip  
+- Body Slam  
+- Fire Punch  
+
+Lileep (F) @ Oran Berry  
+Ability: Suction Cups  
+Level: 5  
+EVs: 228 HP / 220 Def / 60 SpD  
+Impish Nature  
+IVs: 18 Atk / 30 SpA / 0 SpD  
+- Stockpile  
+- Swords Dance  
+- Recover  
+- Seed Bomb  
+
+Lileep (F) @ Oran Berry  
+Ability: Suction Cups  
+Level: 5  
+EVs: 228 HP / 36 SpA / 220 SpD  
+Calm Nature  
+IVs: 28 Def / 19 SpA / 20 SpD  
+- Stealth Rock  
+- Energy Ball  
+- Earth Power  
+- Ancient Power  
+
+Lotad (F) @ Life Orb  
+Ability: Swift Swim  
+Level: 5  
+EVs: 36 Def / 196 SpA / 36 SpD / 200 Spe  
+Timid Nature  
+IVs: 22 SpA / 13 SpD / 20 Spe  
+- Surf  
+- Energy Ball  
+- Ice Beam  
+- Rain Dance  
+
+Machop (M) @ Oran Berry  
+Ability: No Guard  
+Level: 5  
+EVs: 116 HP / 196 Atk / 36 Def / 76 SpD / 76 Spe  
+Adamant Nature  
+IVs: 12 Def / 4 Spe  
+- Dynamic Punch  
+- Ice Punch  
+- Bullet Punch  
+- Payback  
+
+Machop (M) @ Choice Scarf  
+Ability: No Guard  
+Level: 5  
+EVs: 196 Atk / 76 SpD / 236 Spe  
+Jolly Nature  
+IVs: 19 SpA / 21 SpD / 1 Spe  
+- Dynamic Punch  
+- Rock Slide  
+- Payback  
+- Ice Punch  
+
+Magby (M) @ Life Orb  
+Ability: Flame Body  
+Level: 5  
+EVs: 240 Atk / 252 Spe  
+Hasty Nature  
+IVs: 11 Def / 4 SpA / 15 SpD  
+- Flare Blitz  
+- Mach Punch  
+- Thunder Punch  
+- Overheat  
+
+Magby (F) @ Life Orb  
+Ability: Flame Body  
+Level: 5  
+EVs: 200 SpA / 252 Spe  
+Hasty Nature  
+IVs: 6 HP / 16 Atk / 4 SpD  
+- Fire Blast  
+- Cross Chop  
+- Hidden Power [Ghost]  
+- Thunder Punch  
+
+Magby (F) @ Choice Scarf  
+Ability: Flame Body  
+Level: 5  
+EVs: 240 Atk / 252 Spe  
+Hasty Nature  
+IVs: 19 HP / 3 Def / 15 SpA  
+- Flare Blitz  
+- Mach Punch  
+- Thunder Punch  
+- Hidden Power [Dark]  
+
+Magnemite @ Life Orb  
+Ability: Magnet Pull  
+Level: 5  
+EVs: 76 HP / 40 Def / 236 SpA / 156 Spe  
+Modest Nature  
+IVs: 16 Atk / 15 SpA / 27 SpD  
+- Magnet Rise  
+- Substitute  
+- Thunderbolt  
+- Hidden Power [Dragon]  
+
+Magnemite @ Choice Scarf  
+Ability: Magnet Pull  
+Level: 5  
+EVs: 240 SpA / 236 Spe  
+Naive Nature  
+IVs: 22 Def / 15 SpA / 6 Spe  
+- Thunderbolt  
+- Flash Cannon  
+- Hidden Power [Psychic]  
+- Explosion  
+
+Magnemite @ Life Orb  
+Ability: Magnet Pull  
+Level: 5  
+EVs: 236 HP / 240 SpA  
+Quiet Nature  
+IVs: 22 HP / 28 SpA / 26 Spe  
+- Thunderbolt  
+- Flash Cannon  
+- Hidden Power [Water]  
+- Explosion  
+
+Makuhita (F) @ Oran Berry  
+Ability: Thick Fat  
+Level: 5  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
+Jolly Nature  
+IVs: 10 HP / 13 SpA / 6 Spe  
+- Fake Out  
+- Rock Slide  
+- Close Combat  
+- Bullet Punch  
+
+Makuhita (M) @ Oran Berry  
+Ability: Guts  
+Level: 5  
+EVs: 180 HP / 196 Atk / 36 Def / 36 SpD  
+Brave Nature  
+IVs: 23 HP / 3 Atk / 20 SpD  
+- Belly Drum  
+- Close Combat  
+- Bullet Punch  
+- Ice Punch  
+
+Mankey (M) @ Choice Scarf  
+Ability: Anger Point  
+Level: 5  
+EVs: 36 HP / 196 Atk / 76 Def / 196 Spe  
+Jolly Nature  
+IVs: 29 HP / 0 SpA / 21 SpD  
+- U-turn  
+- Close Combat  
+- Ice Punch  
+- Punishment  
+
+Mantyke (F) @ Oran Berry  
+Ability: Swift Swim  
+Level: 5  
+EVs: 116 Def / 200 SpA / 36 SpD / 116 Spe  
+Modest Nature  
+IVs: 3 HP / 4 Atk / 22 SpA  
+- Rain Dance  
+- Hydro Pump  
+- Hidden Power [Grass]  
+- Air Cutter  
+
+Mareep (M) @ Oran Berry  
+Ability: Static  
+Level: 5  
+EVs: 236 HP / 196 Def / 76 SpD  
+Bold Nature  
+IVs: 1 HP / 12 Atk / 20 SpD  
+- Reflect  
+- Light Screen  
+- Thunder Wave  
+- Thunderbolt  
+
+Meowth (M) @ Focus Sash  
+Ability: Technician  
+Level: 5  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Jolly Nature  
+IVs: 4 HP / 0 SpA / 23 SpD  
+- Fake Out  
+- Return  
+- Bite  
+- Hypnosis  
+
+Mime Jr. (F) @ Choice Scarf  
+Ability: Filter  
+Level: 5  
+EVs: 36 HP / 196 SpA / 36 SpD / 196 Spe  
+Timid Nature  
+IVs: 23 HP / 8 Atk  
+- Psychic  
+- Hidden Power [Dragon]  
+- Thunderbolt  
+- Trick  
+
+Mime Jr. (M) @ Salac Berry  
+Ability: Soundproof  
+Level: 5  
+EVs: 196 HP / 76 Def / 36 SpD / 196 Spe  
+Timid Nature  
+IVs: 28 HP / 15 Atk / 4 Spe  
+- Psychic  
+- Substitute  
+- Nasty Plot  
+- Baton Pass  
+
+Mime Jr. (F) @ Life Orb  
+Ability: Filter  
+Level: 5  
+EVs: 36 HP / 196 SpA / 36 SpD / 196 Spe  
+Timid Nature  
+IVs: 4 HP / 28 SpA  
+- Nasty Plot  
+- Psychic  
+- Hidden Power [Grass]  
+- Encore  
+
+Mime Jr. (F) @ Light Clay  
+Ability: Filter  
+Level: 5  
+EVs: 196 HP / 76 Def / 36 SpD / 196 Spe  
+Timid Nature  
+IVs: 17 Atk / 12 Def / 23 SpA  
+- Reflect  
+- Light Screen  
+- Hypnosis  
+- Psychic  
+
+Mudkip (M) @ Choice Scarf  
+Ability: Torrent  
+Level: 5  
+EVs: 116 HP / 196 Atk / 196 Spe  
+Jolly Nature  
+IVs: 20 Def / 0 SpA / 20 Spe  
+- Waterfall  
+- Rock Slide  
+- Double-Edge  
+- Superpower  
+
+Munchlax (F) @ Oran Berry  
+Ability: Thick Fat  
+Level: 5  
+EVs: 76 HP / 236 Atk / 116 Def / 76 Spe  
+Adamant Nature  
+IVs: 19 HP / 27 Atk / 15 SpD  
+- Return  
+- Superpower  
+- Pursuit  
+- Ice Punch  
+
+Natu (M) @ Choice Specs  
+Ability: Synchronize  
+Level: 5  
+EVs: 36 HP / 200 SpA / 200 Spe  
+Timid Nature  
+IVs: 14 Atk / 12 Def / 8 SpD  
+- Psychic  
+- Heat Wave  
+- Hidden Power [Bug]  
+- U-turn  
+
+Natu (F) @ Light Clay  
+Ability: Synchronize  
+Level: 5  
+EVs: 116 HP / 36 Atk / 76 Def / 76 SpD / 196 Spe  
+Timid Nature  
+IVs: 3 Atk / 29 SpA / 14 SpD  
+- Reflect  
+- Light Screen  
+- U-turn  
+- Wish  
+
+Natu (F) @ Choice Band  
+Ability: Synchronize  
+Level: 5  
+EVs: 116 HP / 196 Atk / 196 Spe  
+Adamant Nature  
+IVs: 6 HP / 23 Def / 20 Spe  
+- Zen Headbutt  
+- Sucker Punch  
+- Drill Peck  
+- U-turn  
+
+Nidoran-M (M) @ Life Orb  
+Ability: Rivalry  
+Level: 5  
+EVs: 64 Atk / 200 SpA / 36 SpD / 200 Spe  
+Rash Nature  
+IVs: 28 HP / 4 Atk / 0 Def  
+- Sludge Bomb  
+- Sucker Punch  
+- Ice Beam  
+- Hidden Power [Ice]  
+
+Nincada (F) @ Oran Berry  
+Ability: Compound Eyes  
+Level: 5  
+EVs: 188 HP / 80 Atk / 200 Def / 36 SpD  
+Relaxed Nature  
+IVs: 22 Def / 21 SpD / 8 Spe  
+- Bug Bite  
+- Toxic  
+- Aerial Ace  
+- Hidden Power [Psychic]  
+
+Nosepass (F) @ Oran Berry  
+Ability: Magnet Pull  
+Level: 5  
+EVs: 196 HP / 236 Def / 36 SpD  
+Impish Nature  
+IVs: 2 SpD / 13 Spe  
+- Thunder Wave  
+- Stealth Rock  
+- Explosion  
+- Stone Edge  
+
+Numel (F) @ Choice Scarf  
+Ability: Oblivious  
+Level: 5  
+EVs: 240 SpA / 236 Spe  
+Timid Nature  
+IVs: 1 HP / 1 Atk / 9 SpA  
+- Overheat  
+- Fire Blast  
+- Earth Power  
+- Hidden Power [Dark]  
+
+Numel (M) @ Life Orb  
+Ability: Oblivious  
+Level: 5  
+EVs: 36 HP / 196 Atk / 36 Def / 240 SpA  
+Quiet Nature  
+IVs: 20 HP / 0 SpD / 24 Spe  
+- Fire Blast  
+- Earthquake  
+- Hidden Power [Bug]  
+- Return  
+
+Oddish (M) @ Life Orb  
+Ability: Chlorophyll  
+Level: 5  
+EVs: 240 SpA / 200 Spe  
+Timid Nature  
+IVs: 30 Atk / 24 SpD / 20 Spe  
+- Solar Beam  
+- Sludge Bomb  
+- Hidden Power [Bug]  
+- Sunny Day  
+
+Clamperl (M) @ Deep Sea Scale  
+Ability: Shell Armor  
+Level: 5  
+EVs: 236 HP / 236 Def / 8 SpA / 20 Spe  
+Bold Nature  
+IVs: 24 HP / 12 Atk / 19 Def  
+- Rest  
+- Sleep Talk  
+- Surf  
+- Hidden Power [Dragon]  
+
+Diglett (M) @ Focus Sash  
+Ability: Arena Trap  
+Level: 5  
+EVs: 236 Atk / 236 Spe  
+Jolly Nature  
+IVs: 8 HP / 26 Atk / 25 Spe  
+- Earthquake  
+- Reversal  
+- Sucker Punch  
+- Stealth Rock  
+
+Omanyte (M) @ Life Orb  
+Ability: Swift Swim  
+Level: 5  
+EVs: 76 HP / 196 SpA / 236 Spe  
+Timid Nature  
+IVs: 22 Atk / 21 SpA / 25 SpD  
+- Hydro Pump  
+- Ice Beam  
+- Earth Power  
+- Ancient Power  
+
+Omanyte (M) @ Oran Berry  
+Ability: Swift Swim  
+Level: 5  
+EVs: 156 HP / 36 Def / 200 SpA / 76 Spe  
+Modest Nature  
+IVs: 3 HP / 14 SpA / 30 SpD  
+- Surf  
+- Ice Beam  
+- Hidden Power [Ground]  
+- Rain Dance  
+
+Omanyte (M) @ Life Orb  
+Ability: Shell Armor  
+Level: 5  
+EVs: 236 HP / 196 SpA / 76 Spe  
+Modest Nature  
+IVs: 15 Atk / 3 Def / 0 Spe  
+- Rock Polish  
+- Hydro Pump  
+- Earth Power  
+- Ancient Power  
+
+Omanyte (F) @ Oran Berry  
+Ability: Shell Armor  
+Level: 5  
+EVs: 236 HP / 36 Def / 236 SpD  
+Calm Nature  
+IVs: 27 Def / 14 SpD / 4 Spe  
+- Stealth Rock  
+- Spikes  
+- Surf  
+- Ancient Power  
+
+Onix (M) @ Focus Sash  
+Ability: Sturdy  
+Level: 5  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+IVs: 0 HP / 8 SpA / 23 SpD  
+- Stealth Rock  
+- Earthquake  
+- Stone Edge  
+- Explosion  
+
+Paras (M) @ Oran Berry  
+Ability: Dry Skin  
+Level: 5  
+EVs: 236 HP / 116 Atk / 156 Def  
+Impish Nature  
+IVs: 14 HP / 0 Def / 29 SpA  
+- Spore  
+- Seed Bomb  
+- Bug Bite  
+- Synthesis  
+
+Phanpy (F) @ Oran Berry  
+Ability: Pickup  
+Level: 5  
+EVs: 116 HP / 196 Atk / 116 Def / 36 SpD / 36 Spe  
+Impish Nature  
+IVs: 26 HP / 7 SpA / 8 SpD  
+- Stealth Rock  
+- Earthquake  
+- Head Smash  
+- Ice Shard  
+
+Phanpy (F) @ Life Orb  
+Ability: Pickup  
+Level: 5  
+EVs: 196 HP / 196 Atk / 116 Def  
+Jolly Nature  
+IVs: 15 HP / 9 SpD / 17 Spe  
+- Earthquake  
+- Ice Shard  
+- Head Smash  
+- Seed Bomb  
+
+Pichu (M) @ Choice Band  
+Ability: Static  
+Level: 5  
+EVs: 118 HP / 196 Atk / 196 Spe  
+Jolly Nature  
+IVs: 14 HP / 29 SpA  
+- Volt Tackle  
+- Thunder Punch  
+- Return  
+- Iron Tail  
+
+Pichu (F) @ Life Orb  
+Ability: Static  
+Level: 5  
+EVs: 36 HP / 200 Atk / 76 SpA / 196 Spe  
+Hasty Nature  
+IVs: 6 Def / 8 SpD  
+- Volt Tackle  
+- Thunderbolt  
+- Return  
+- Hidden Power [Ghost]  
+
+Pichu (F) @ Life Orb  
+Ability: Static  
+Level: 5  
+EVs: 36 HP / 236 SpA / 196 Spe  
+Timid Nature  
+IVs: 28 Atk / 3 SpA / 21 Spe  
+- Encore  
+- Substitute  
+- Thunderbolt  
+- Hidden Power [Dragon]  
+
+Pineco (M) @ Oran Berry  
+Ability: Sturdy  
+Level: 5  
+EVs: 196 HP / 76 Atk / 196 Def  
+Impish Nature  
+IVs: 0 Def / 11 SpA / 7 SpD  
+- Spikes  
+- Rapid Spin  
+- Bug Bite  
+- Payback  
+
+Pineco (F) @ Oran Berry  
+Ability: Sturdy  
+Level: 5  
+EVs: 196 HP / 76 Atk / 196 Def  
+Impish Nature  
+IVs: 17 Def / 16 SpA / 17 Spe  
+- Spikes  
+- Stealth Rock  
+- Bug Bite  
+- Explosion  
+
+Piplup (F) @ Oran Berry  
+Ability: Torrent  
+Level: 5  
+EVs: 92 HP / 12 Def / 192 SpA / 200 Spe  
+Timid Nature  
+IVs: 0 SpA / 2 SpD / 6 Spe  
+- Stealth Rock  
+- Hydro Pump  
+- Icy Wind  
+- Hidden Power [Flying]  
+
+Piplup (M) @ Oran Berry  
+Ability: Torrent  
+Level: 5  
+EVs: 252 HP / 92 Def / 148 SpD  
+Bold Nature  
+IVs: 0 Atk / 24 Def / 15 SpD  
+- Surf  
+- Ice Beam  
+- Yawn  
+- Stealth Rock  
+
+Poliwag (M) @ Life Orb  
+Ability: Water Absorb  
+Level: 5  
+EVs: 36 Def / 200 SpA / 36 SpD / 196 Spe  
+Timid Nature  
+IVs: 22 Atk / 26 SpA / 5 SpD  
+- Hypnosis  
+- Hydro Pump  
+- Hidden Power [Grass]  
+- Ice Beam  
+
+Poliwag (M) @ Oran Berry  
+Ability: Water Absorb  
+Level: 5  
+EVs: 196 Atk / 36 Def / 36 SpD / 196 Spe  
+Jolly Nature  
+IVs: 22 Atk / 24 Def / 20 SpD  
+- Belly Drum  
+- Hypnosis  
+- Waterfall  
+- Return  
+
+Poliwag (M) @ Choice Scarf  
+Ability: Water Absorb  
+Level: 5  
+EVs: 116 HP / 196 Atk / 196 Spe  
+Jolly Nature  
+IVs: 15 HP / 25 SpA / 21 Spe  
+- Encore  
+- Hypnosis  
+- Waterfall  
+- Return  
+
+Ponyta (F) @ Oran Berry  
+Ability: Flash Fire  
+Level: 5  
+EVs: 116 HP / 156 Atk / 196 Spe  
+Jolly Nature  
+IVs: 26 SpA / 19 SpD / 5 Spe  
+- Substitute  
+- Will-O-Wisp  
+- Return  
+- Flare Blitz  
+
+Poochyena (M) @ Toxic Orb  
+Ability: Quick Feet  
+Level: 5  
+EVs: 236 Atk / 36 SpD / 236 Spe  
+Jolly Nature  
+IVs: 23 Def / 6 SpA / 6 Spe  
+- Sucker Punch  
+- Facade  
+- Ice Fang  
+- Protect  
+
+Porygon @ Oran Berry  
+Ability: Download  
+Level: 5  
+EVs: 196 Atk / 36 Def / 236 SpA  
+Quiet Nature  
+IVs: 15 Atk / 2 SpA / 26 SpD  
+- Return  
+- Thunderbolt  
+- Ice Beam  
+- Shadow Ball  
+
+Psyduck (M) @ Choice Scarf  
+Ability: Cloud Nine  
+Level: 5  
+EVs: 24 Atk / 240 SpA / 236 Spe  
+Naive Nature  
+IVs: 15 Def / 5 SpA / 14 SpD  
+- Hydro Pump  
+- Ice Beam  
+- Cross Chop  
+- Hidden Power [Steel]  
+
+Ralts (M) @ Focus Sash  
+Ability: Trace  
+Level: 5  
+EVs: 212 HP / 76 Def / 156 SpD  
+Relaxed Nature  
+IVs: 20 HP / 7 Spe  
+- Trick Room  
+- Memento  
+- Destiny Bond  
+- Encore  
+
+Rattata (F) @ Life Orb  
+Ability: Guts  
+Level: 5  
+EVs: 228 Atk / 76 SpD / 180 Spe  
+Adamant Nature  
+IVs: 8 HP / 15 Atk / 7 Spe  
+- Quick Attack  
+- Sucker Punch  
+- Pursuit  
+- Return  
+
+Rattata (F) @ Toxic Orb  
+Ability: Guts  
+Level: 5  
+EVs: 36 HP / 228 Atk / 180 Spe  
+Jolly Nature  
+IVs: 13 Atk / 20 Def / 29 SpA  
+- Facade  
+- Sucker Punch  
+- U-turn  
+- Quick Attack  
+
+Remoraid (F) @ Choice Scarf  
+Ability: Sniper  
+Level: 5  
+EVs: 240 SpA / 236 Spe  
+Timid Nature  
+IVs: 24 Atk / 25 SpA / 6 Spe  
+- Water Spout  
+- Surf  
+- Ice Beam  
+- Hidden Power [Psychic]  
+
+Remoraid (M) @ Choice Scarf  
+Ability: Hustle  
+Level: 5  
+EVs: 236 Atk / 236 Spe  
+Jolly Nature  
+IVs: 28 Atk / 21 SpA / 8 SpD  
+- Waterfall  
+- Seed Bomb  
+- Return  
+- Water Spout  
+
+Remoraid (F) @ Choice Scarf  
+Ability: Hustle  
+Level: 5  
+EVs: 236 SpA / 236 Spe  
+Naughty Nature  
+IVs: 3 HP / 24 SpA / 15 Spe  
+- Waterfall  
+- Water Spout  
+- Seed Bomb  
+- Fire Blast  
+
+Gastly (F) @ Oran Berry  
+Ability: Levitate  
+Level: 5  
+EVs: 36 HP / 36 Def / 196 SpA / 196 Spe  
+Timid Nature  
+IVs: 18 Atk / 2 Def / 6 SpA  
+- Will-O-Wisp  
+- Shadow Ball  
+- Sludge Bomb  
+- Substitute  
+
+Hippopotas (M) @ Oran Berry  
+Ability: Sand Stream  
+Level: 5  
+EVs: 212 HP / 36 Atk / 212 Def / 36 SpD  
+Impish Nature  
+IVs: 1 HP / 13 Atk  
+- Stealth Rock  
+- Earthquake  
+- Crunch  
+- Slack Off  
+
+Rhyhorn (M) @ Life Orb  
+Ability: Rock Head  
+Level: 5  
+EVs: 236 Atk / 36 SpD / 236 Spe  
+Jolly Nature  
+IVs: 14 Atk / 5 SpA / 23 Spe  
+- Rock Polish  
+- Stone Edge  
+- Earthquake  
+- Megahorn  
+
+Rhyhorn (M) @ Choice Band  
+Ability: Rock Head  
+Level: 5  
+EVs: 156 HP / 236 Atk / 36 SpD / 76 Spe  
+Adamant Nature  
+IVs: 28 Def / 27 SpD / 0 Spe  
+- Earthquake  
+- Stone Edge  
+- Aqua Tail  
+- Megahorn  
+
+Rhyhorn (F) @ Oran Berry  
+Ability: Rock Head  
+Level: 5  
+EVs: 196 HP / 236 Atk / 36 SpD / 36 Spe  
+Impish Nature  
+IVs: 4 HP / 25 SpA / 17 SpD  
+- Substitute  
+- Earthquake  
+- Rock Blast  
+- Ice Fang  
+
+Riolu (M) @ Life Orb  
+Ability: Inner Focus  
+Level: 5  
+EVs: 196 Atk / 36 Def / 36 SpD / 196 Spe  
+Adamant Nature  
+IVs: 11 SpA / 17 Spe  
+- Agility  
+- High Jump Kick  
+- Crunch  
+- Ice Punch  
+
+Riolu (F) @ Focus Sash  
+Ability: Inner Focus  
+Level: 5  
+EVs: 196 Atk / 36 Def / 36 SpD / 196 Spe  
+Adamant Nature  
+IVs: 29 HP / 21 SpD / 18 Spe  
+- Swords Dance  
+- High Jump Kick  
+- Crunch  
+- Ice Punch  
+
+Riolu (F) @ Focus Sash  
+Ability: Inner Focus  
+Level: 5  
+EVs: 196 Atk / 36 SpD / 196 Spe  
+Adamant Nature  
+IVs: 23 HP / 17 SpA  
+- High Jump Kick  
+- Bullet Punch  
+- Crunch  
+- Counter  
+
+Sandshrew (M) @ Oran Berry  
+Ability: Sand Veil  
+Level: 5  
+EVs: 196 HP / 76 Def / 196 SpD / 36 Spe  
+Impish Nature  
+IVs: 1 HP / 4 Def / 12 SpA  
+- Rapid Spin  
+- Stealth Rock  
+- Earthquake  
+- Rock Slide  
+
+Seedot (F) @ Life Orb  
+Ability: Chlorophyll  
+Level: 5  
+EVs: 40 Atk / 200 SpA / 36 SpD / 200 Spe  
+Hasty Nature  
+IVs: 23 HP / 25 Def / 19 SpA  
+- Solar Beam  
+- Hidden Power [Dark]  
+- Shadow Ball  
+- Explosion  
+
+Seedot (M) @ Life Orb  
+Ability: Chlorophyll  
+Level: 5  
+EVs: 36 Def / 200 SpA / 36 SpD / 200 Spe  
+Timid Nature  
+IVs: 23 HP / 1 Atk / 12 SpD  
+- Nasty Plot  
+- Solar Beam  
+- Hidden Power [Steel]  
+- Shadow Ball  
+
+Seel (M) @ Life Orb  
+Ability: Thick Fat  
+Level: 5  
+EVs: 236 Atk / 36 SpD / 236 Spe  
+Adamant Nature  
+IVs: 21 HP / 28 SpA / 23 Spe  
+- Fake Out  
+- Aqua Jet  
+- Ice Shard  
+- Waterfall  
+
+Sentret (M) @ Life Orb  
+Ability: Keen Eye  
+Level: 5  
+EVs: 228 Atk / 4 Def / 236 SpA  
+Quiet Nature  
+IVs: 30 HP / 20 SpD / 3 Spe  
+- Return  
+- Sucker Punch  
+- Ice Beam  
+- Thunderbolt  
+
+Shellder (M) @ Choice Scarf  
+Ability: Skill Link  
+Level: 5  
+EVs: 156 Atk / 156 SpA / 196 Spe  
+Naive Nature  
+IVs: 21 HP / 16 Atk / 12 Spe  
+- Surf  
+- Ice Beam  
+- Rock Blast  
+- Explosion  
+
+Shellder (M) @ Life Orb  
+Ability: Skill Link  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 SpA  
+Brave Nature  
+IVs: 24 Atk / 18 Def / 23 SpD  
+- Surf  
+- Rock Blast  
+- Ice Beam  
+- Explosion  
+
+Shellder (M) @ Oran Berry  
+Ability: Skill Link  
+Level: 5  
+EVs: 196 HP / 76 Def / 236 SpD  
+Sassy Nature  
+IVs: 7 Def / 4 SpA / 20 Spe  
+- Rapid Spin  
+- Surf  
+- Ice Shard  
+- Rock Blast  
+
+Shellos (M) @ Choice Scarf  
+Ability: Storm Drain  
+Level: 5  
+EVs: 220 SpA / 244 Spe  
+Timid Nature  
+IVs: 1 Def / 17 SpD / 24 Spe  
+- Surf  
+- Ice Beam  
+- Earth Power  
+- Hidden Power [Ice]  
+
+Shieldon (F) @ Oran Berry  
+Ability: Sturdy  
+Level: 5  
+EVs: 196 HP / 20 Atk / 52 Def / 20 SpA / 212 SpD  
+Sassy Nature  
+IVs: 18 Atk / 17 SpA / 8 SpD  
+- Stealth Rock  
+- Earthquake  
+- Ice Beam  
+- Thunderbolt  
+
+Shinx (F) @ Life Orb  
+Ability: Rivalry  
+Level: 5  
+EVs: 236 Atk / 244 Def / 4 SpD  
+Brave Nature  
+IVs: 10 HP / 2 Atk / 28 SpA  
+- Thunder Fang  
+- Ice Fang  
+- Fire Fang  
+- Crunch  
+
+Shinx (M) @ Oran Berry  
+Ability: Intimidate  
+Level: 5  
+EVs: 236 Atk / 4 Def / 4 SpD / 236 Spe  
+Jolly Nature  
+IVs: 2 Atk / 25 Spe  
+- Thunder Wave  
+- Thunder Fang  
+- Ice Fang  
+- Crunch  
+
+Shroomish (F) @ Toxic Orb  
+Ability: Poison Heal  
+Level: 5  
+EVs: 196 HP / 196 Def / 116 SpD  
+Impish Nature  
+IVs: 21 Def / 29 SpA / 30 Spe  
+- Substitute  
+- Leech Seed  
+- Protect  
+- Spore  
+
+Shroomish (F) @ Choice Scarf  
+Ability: Effect Spore  
+Level: 5  
+EVs: 36 HP / 36 Def / 196 SpA / 236 Spe  
+Timid Nature  
+IVs: 27 HP / 17 Def / 14 SpA  
+- Spore  
+- Energy Ball  
+- Sludge Bomb  
+- Stun Spore  
+
+Shuppet (F) @ Focus Sash  
+Ability: Insomnia  
+Level: 5  
+EVs: 4 HP / 236 Atk / 252 SpA / 12 SpD  
+Brave Nature  
+IVs: 15 Def / 27 SpD / 20 Spe  
+- Trick Room  
+- Destiny Bond  
+- Sucker Punch  
+- Thunderbolt  
+
+Shuppet (F) @ Oran Berry  
+Ability: Insomnia  
+Level: 5  
+EVs: 244 HP / 236 Def / 12 SpD  
+Relaxed Nature  
+IVs: 18 Def / 8 SpA / 4 Spe  
+- Will-O-Wisp  
+- Shadow Sneak  
+- Thunderbolt  
+- Destiny Bond  
+
+Shuppet (M) @ Oran Berry  
+Ability: Insomnia  
+Level: 5  
+EVs: 4 HP / 236 Atk / 252 SpA / 12 SpD  
+Quiet Nature  
+IVs: 22 Atk / 23 SpD / 25 Spe  
+- Trick Room  
+- Shadow Ball  
+- Hidden Power [Dragon]  
+- Sucker Punch  
+
+Shuppet (F) @ Choice Scarf  
+Ability: Insomnia  
+Level: 5  
+EVs: 244 HP / 12 SpD / 236 Spe  
+Adamant Nature  
+IVs: 17 HP / 14 SpA / 14 Spe  
+- Trick  
+- Sucker Punch  
+- Destiny Bond  
+- Thunder Wave  
+
+Shuppet (M) @ Life Orb  
+Ability: Insomnia  
+Level: 5  
+EVs: 4 HP / 236 Atk / 176 SpA / 12 SpD / 80 Spe  
+Mild Nature  
+IVs: 7 HP / 14 Atk / 20 Spe  
+- Substitute  
+- Shadow Sneak  
+- Shadow Ball  
+- Hidden Power [Psychic]  
+
+Skitty (F) @ Life Orb  
+Ability: Normalize  
+Level: 5  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Adamant Nature  
+IVs: 3 Atk / 26 SpA / 18 SpD  
+- Fake Out  
+- Sucker Punch  
+- Return  
+- Baton Pass  
+
+Skorupi (F) @ Oran Berry  
+Ability: Sniper  
+Level: 5  
+EVs: 36 HP / 196 Atk / 36 Def / 236 SpD  
+Adamant Nature  
+IVs: 10 HP / 17 Atk / 13 Spe  
+- Agility  
+- Cross Poison  
+- Night Slash  
+- Aqua Tail  
+
+Skorupi (F) @ Oran Berry  
+Ability: Battle Armor  
+Level: 5  
+EVs: 36 HP / 196 Atk / 36 Def / 236 SpD  
+Adamant Nature  
+IVs: 18 Atk / 12 Def / 7 SpD  
+- Swords Dance  
+- Poison Jab  
+- Crunch  
+- Aqua Tail  
+
+Slakoth (M) @ Choice Band  
+Ability: Truant  
+Level: 5  
+EVs: 196 HP / 196 Atk / 36 Def / 76 SpD  
+Adamant Nature  
+IVs: 26 Def / 29 SpA / 10 Spe  
+- Return  
+- Pursuit  
+- Ice Punch  
+- Hammer Arm  
+
+Snover (F) @ Oran Berry  
+Ability: Snow Warning  
+Level: 5  
+EVs: 36 HP / 180 Atk / 36 Def / 36 SpD / 196 Spe  
+Adamant Nature  
+IVs: 25 Atk / 5 SpA / 9 SpD  
+- Swords Dance  
+- Ice Shard  
+- Wood Hammer  
+- Protect  
+
+Slowpoke (M) @ Oran Berry  
+Ability: Own Tempo  
+Level: 5  
+EVs: 36 HP / 156 Atk / 236 Def / 36 SpD  
+Adamant Nature  
+IVs: 16 Atk / 26 SpD  
+- Aqua Tail  
+- Zen Headbutt  
+- Slack Off  
+- Thunder Wave  
+
+Slowpoke (M) @ Oran Berry  
+Ability: Own Tempo  
+Level: 5  
+EVs: 196 HP / 236 Def / 36 SpD  
+Relaxed Nature  
+IVs: 30 HP / 22 Atk / 20 Def  
+- Zen Headbutt  
+- Aqua Tail  
+- Slack Off  
+- Trick Room  
+
+Slugma (M) @ Light Clay  
+Ability: Flame Body  
+Level: 5  
+EVs: 196 HP / 196 Def / 118 SpD  
+Careful Nature  
+IVs: 15 HP / 20 Def / 3 Spe  
+- Light Screen  
+- Reflect  
+- Memento  
+- Recover  
+
+Slugma (M) @ Life Orb  
+Ability: Flame Body  
+Level: 5  
+EVs: 196 HP / 36 Atk / 36 Def / 200 SpA / 36 SpD  
+Quiet Nature  
+IVs: 28 SpA / 7 SpD / 9 Spe  
+- Fire Blast  
+- Hidden Power [Electric]  
+- Earth Power  
+- Self-Destruct  
+
+Smoochum (F) @ Choice Scarf  
+Ability: Forewarn  
+Level: 5  
+EVs: 240 SpA / 236 Spe  
+Modest Nature  
+IVs: 1 HP / 24 Atk / 14 SpA  
+- Blizzard  
+- Psychic  
+- Hidden Power [Grass]  
+- Ice Beam  
+
+Snorunt (F) @ Focus Sash  
+Ability: Inner Focus  
+Level: 5  
+EVs: 36 Atk / 36 Def / 200 SpA / 40 SpD / 196 Spe  
+Naive Nature  
+IVs: 12 HP / 27 Atk / 7 Def  
+- Ice Beam  
+- Ice Shard  
+- Hidden Power [Dragon]  
+- Spikes  
+
+Snorunt (M) @ Oran Berry  
+Ability: Inner Focus  
+Level: 5  
+EVs: 36 HP / 36 Atk / 116 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+IVs: 21 Def / 17 SpD / 17 Spe  
+- Ice Shard  
+- Spikes  
+- Protect  
+- Crunch  
+
+Snubbull (M) @ Life Orb  
+Ability: Intimidate  
+Level: 5  
+EVs: 196 HP / 196 Atk / 116 SpD  
+Brave Nature  
+IVs: 30 HP / 7 SpA / 16 Spe  
+- Return  
+- Earthquake  
+- Crunch  
+- Ice Punch  
+
+Snubbull (M) @ Oran Berry  
+Ability: Intimidate  
+Level: 5  
+EVs: 196 HP / 196 Def / 116 SpD  
+Impish Nature  
+IVs: 7 HP / 7 Atk / 8 SpD  
+- Thunder Wave  
+- Return  
+- Crunch  
+- Fire Punch  
+
+Spearow (F) @ Choice Scarf  
+Ability: Keen Eye  
+Level: 5  
+EVs: 36 HP / 196 Atk / 36 Def / 28 SpA / 196 Spe  
+Naive Nature  
+IVs: 23 Atk / 0 SpA / 14 SpD  
+- Return  
+- Heat Wave  
+- Drill Peck  
+- U-turn  
+
+Spearow (F) @ Life Orb  
+Ability: Keen Eye  
+Level: 5  
+EVs: 196 Atk / 36 Def / 28 SpA / 196 Spe  
+Naive Nature  
+IVs: 28 HP / 30 Def / 13 SpD  
+- Return  
+- Quick Attack  
+- Pluck  
+- Heat Wave  
+
+Spheal (F) @ Leftovers  
+Ability: Ice Body  
+Level: 5  
+EVs: 36 HP / 196 Def / 76 SpA / 196 SpD  
+Bold Nature  
+IVs: 30 Atk / 6 Def / 13 Spe  
+- Substitute  
+- Protect  
+- Super Fang  
+- Aqua Ring  
+
+Spinarak (F) @ Oran Berry  
+Ability: Insomnia  
+Level: 5  
+EVs: 196 HP / 36 Atk / 196 Def / 36 SpD / 36 Spe  
+Impish Nature  
+IVs: 4 Def / 21 SpA / 23 SpD  
+- Spider Web  
+- Baton Pass  
+- Bug Bite  
+- Agility  
+
+Spinarak (F) @ Focus Sash  
+Ability: Insomnia  
+Level: 5  
+EVs: 196 HP / 196 Atk / 36 Def / 36 SpD / 36 Spe  
+Adamant Nature  
+IVs: 17 HP / 11 Def / 23 SpA  
+- Toxic Spikes  
+- Protect  
+- Bug Bite  
+- Sucker Punch  
+
+Spoink (M) @ Light Clay  
+Ability: Thick Fat  
+Level: 5  
+EVs: 196 HP / 116 SpD / 196 Spe  
+Timid Nature  
+IVs: 18 HP / 4 Def / 28 SpA  
+- Reflect  
+- Light Screen  
+- Thunder Wave  
+- Psychic  
+
+Spoink (F) @ Choice Scarf  
+Ability: Thick Fat  
+Level: 5  
+EVs: 36 HP / 200 SpA / 40 SpD / 200 Spe  
+Timid Nature  
+IVs: 11 Atk / 2 SpA / 12 Spe  
+- Psychic  
+- Shadow Ball  
+- Hidden Power [Water]  
+- Trick  
+
+Spoink (M) @ Oran Berry  
+Ability: Thick Fat  
+Level: 5  
+EVs: 36 HP / 200 SpA / 40 SpD / 200 Spe  
+Timid Nature  
+IVs: 11 Def / 8 SpA / 22 SpD  
+- Calm Mind  
+- Psychic  
+- Hidden Power [Ground]  
+- Shadow Ball  
+
+Squirtle (M) @ Life Orb  
+Ability: Torrent  
+Level: 5  
+EVs: 212 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+IVs: 27 Def / 5 SpA / 2 SpD  
+- Fake Out  
+- Aqua Jet  
+- Waterfall  
+- Return  
+
+Starly (F) @ Choice Scarf  
+Ability: Keen Eye  
+Level: 5  
+EVs: 236 Atk / 36 SpA / 196 Spe  
+Naive Nature  
+IVs: 20 HP / 25 SpA / 0 SpD  
+- Double-Edge  
+- Brave Bird  
+- U-turn  
+- Heat Wave  
+
+Staryu @ Oran Berry  
+Ability: Natural Cure  
+Level: 5  
+EVs: 36 HP / 200 SpA / 240 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Hydro Pump  
+- Psychic  
+- Hidden Power [Fire]  
+- Thunderbolt  
+
+Stunky (M) @ Lum Berry  
+Ability: Aftermath  
+Level: 5  
+EVs: 12 HP / 252 Atk / 244 Spe  
+Jolly Nature  
+IVs: 7 Def / 17 SpD / 25 Spe  
+- Crunch  
+- Pursuit  
+- Explosion  
+- Sucker Punch  
+
+Sunkern (F) @ Life Orb  
+Ability: Solar Power  
+Level: 5  
+EVs: 200 Atk / 40 Def / 200 SpA / 36 SpD  
+Brave Nature  
+IVs: 13 Atk / 16 Spe  
+- Seed Bomb  
+- Return  
+- Hidden Power [Ice]  
+- Swords Dance  
+
+Surskit (F) @ Life Orb  
+Ability: Swift Swim  
+Level: 5  
+EVs: 20 Def / 200 SpA / 20 SpD / 236 Spe  
+Modest Nature  
+IVs: 6 HP / 23 Atk / 21 Def  
+- Hydro Pump  
+- Hidden Power [Dragon]  
+- Psybeam  
+- Signal Beam  
+
+Surskit (F) @ Oran Berry  
+Ability: Swift Swim  
+Level: 5  
+EVs: 36 HP / 196 SpA / 20 SpD / 236 Spe  
+Timid Nature  
+IVs: 2 HP / 24 Def / 1 SpA  
+- Baton Pass  
+- Agility  
+- Hydro Pump  
+- Endure  
+
+Swablu (M) @ Oran Berry  
+Ability: Natural Cure  
+Level: 5  
+EVs: 236 HP / 196 Def / 76 SpD  
+Impish Nature  
+IVs: 30 Def / 21 SpA / 18 Spe  
+- Roost  
+- Pluck  
+- Protect  
+- Toxic  
+
+Swinub (F) @ Focus Sash  
+Ability: Snow Cloak  
+Level: 5  
+EVs: 116 HP / 196 Atk / 196 Spe  
+Jolly Nature  
+IVs: 13 HP / 23 Atk / 23 SpA  
+- Protect  
+- Ice Shard  
+- Stealth Rock  
+- Earthquake  
+
+Taillow (F) @ Flame Orb  
+Ability: Guts  
+Level: 5  
+EVs: 36 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+IVs: 16 Atk / 26 Def / 0 SpA  
+- Pluck  
+- Facade  
+- Protect  
+- Quick Attack  
+
+Teddiursa (F) @ Toxic Orb  
+Ability: Quick Feet  
+Level: 5  
+EVs: 36 HP / 196 Atk / 36 Def / 36 SpD / 196 Spe  
+Jolly Nature  
+IVs: 16 HP / 29 SpD / 23 Spe  
+- Facade  
+- Close Combat  
+- Crunch  
+- Protect  
+
+Tentacool (M) @ Oran Berry  
+Ability: Clear Body  
+Level: 5  
+EVs: 196 HP / 76 Def / 36 SpA / 196 Spe  
+Bold Nature  
+IVs: 8 HP / 3 SpA / 22 SpD  
+- Rapid Spin  
+- Toxic Spikes  
+- Surf  
+- Sludge Bomb  
+
+Togepi (M) @ Oran Berry  
+Ability: Serene Grace  
+Level: 5  
+EVs: 236 HP / 196 Atk / 76 Def  
+Adamant Nature  
+IVs: 23 Def / 23 SpD / 3 Spe  
+- Body Slam  
+- Headbutt  
+- Fire Blast  
+- Soft-Boiled  
+
+Torchic (M) @ Life Orb  
+Ability: Blaze  
+Level: 5  
+EVs: 36 Atk / 200 SpA / 36 SpD / 236 Spe  
+Hasty Nature  
+IVs: 23 HP / 20 SpA / 13 SpD  
+- Fire Blast  
+- Hidden Power [Electric]  
+- Rock Slide  
+- Quick Attack  
+
+Totodile (F) @ Life Orb  
+Ability: Torrent  
+Level: 5  
+EVs: 36 HP / 236 Atk / 4 Def / 52 SpD / 172 Spe  
+Jolly Nature  
+IVs: 9 Def / 4 SpA / 24 SpD  
+- Swords Dance  
+- Aqua Jet  
+- Return  
+- Crunch  
+
+Totodile (F) @ Salac Berry  
+Ability: Torrent  
+Level: 5  
+EVs: 236 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+IVs: 25 HP / 25 SpD / 2 Spe  
+- Flail  
+- Swords Dance  
+- Aqua Jet  
+- Substitute  
+
+Totodile (F) @ Life Orb  
+Ability: Torrent  
+Level: 5  
+EVs: 236 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+IVs: 18 HP / 21 SpA / 30 SpD  
+- Dragon Dance  
+- Waterfall  
+- Return  
+- Ice Punch  
+
+Trapinch (F) @ Life Orb  
+Ability: Arena Trap  
+Level: 5  
+EVs: 196 Atk / 156 Def / 156 SpD  
+Brave Nature  
+IVs: 28 Def / 19 Spe  
+- Earthquake  
+- Quick Attack  
+- Crunch  
+- Bug Bite  
+
+Trapinch (F) @ Life Orb  
+Ability: Arena Trap  
+EVs: 252 HP / 252 Atk / 4 Def  
+Brave Nature  
+IVs: 6 HP / 20 Def  
+- Earthquake  
+- Crunch  
+- Rock Slide  
+- Bug Bite  
+
+Treecko (M) @ Focus Sash  
+Ability: Overgrow  
+Level: 5  
+EVs: 36 HP / 240 SpA / 200 Spe  
+Hasty Nature  
+IVs: 20 HP / 11 SpD  
+- Leaf Storm  
+- Hidden Power [Dragon]  
+- Grass Whistle  
+- Quick Attack  
+
+Turtwig (F) @ Oran Berry  
+Ability: Overgrow  
+Level: 5  
+EVs: 236 HP / 52 Atk / 84 Def / 76 SpD / 28 Spe  
+Impish Nature  
+IVs: 23 Atk / 12 SpD / 22 Spe  
+- Stealth Rock  
+- Protect  
+- Seed Bomb  
+- Crunch  
+
+Turtwig (M) @ Choice Band  
+Ability: Overgrow  
+Level: 5  
+EVs: 236 HP / 212 Atk / 4 Def / 28 Spe  
+Adamant Nature  
+IVs: 29 Atk / 19 SpD / 9 Spe  
+- Seed Bomb  
+- Superpower  
+- Crunch  
+- Double-Edge  
+
+Turtwig (F) @ Light Clay  
+Ability: Overgrow  
+Level: 5  
+EVs: 236 HP / 52 Atk / 84 Def / 76 SpD / 28 Spe  
+Impish Nature  
+IVs: 2 Def / 7 SpA / 1 Spe  
+- Light Screen  
+- Reflect  
+- Seed Bomb  
+- Crunch  
+
+Turtwig (F) @ Life Orb  
+Ability: Overgrow  
+Level: 5  
+EVs: 216 Atk / 4 Def / 240 SpA  
+Quiet Nature  
+IVs: 16 HP / 6 SpA / 16 Spe  
+- Seed Bomb  
+- Earth Power  
+- Hidden Power [Water]  
+- Crunch  
+
+Tyrogue (M) @ Toxic Orb  
+Ability: Guts  
+Level: 5  
+EVs: 236 HP / 236 Atk  
+Brave Nature  
+IVs: 12 Def / 28 SpD  
+- High Jump Kick  
+- Facade  
+- Rock Slide  
+- Bullet Punch  
+
+Tyrogue (M) @ Toxic Orb  
+Ability: Guts  
+Level: 5  
+EVs: 236 Atk / 236 Spe  
+Adamant Nature  
+IVs: 1 HP / 8 Atk / 9 Def  
+- Fake Out  
+- Bullet Punch  
+- High Jump Kick  
+- Rock Slide  
+
+Venonat (M) @ Focus Sash  
+Ability: Compound Eyes  
+Level: 5  
+EVs: 196 HP / 36 Def / 36 SpA / 236 Spe  
+Timid Nature  
+IVs: 20 HP / 19 SpA / 18 SpD  
+- Sleep Powder  
+- Baton Pass  
+- Agility  
+- Sludge Bomb  
+
+Venonat (M) @ Choice Scarf  
+Ability: Tinted Lens  
+Level: 5  
+EVs: 36 HP / 36 Def / 196 SpA / 196 Spe  
+Timid Nature  
+IVs: 12 HP / 11 Def / 29 SpA  
+- Sleep Powder  
+- Sludge Bomb  
+- Psychic  
+- Hidden Power [Dragon]  
+
+Venonat (F) @ Oran Berry  
+Ability: Compound Eyes  
+Level: 5  
+EVs: 196 HP / 76 Atk / 236 Spe  
+Jolly Nature  
+IVs: 11 Def / 29 SpA / 15 Spe  
+- Sleep Powder  
+- Stun Spore  
+- Bug Bite  
+- Baton Pass  
+
+Voltorb @ Focus Sash  
+Ability: Static  
+Level: 5  
+EVs: 36 HP / 40 Atk / 236 SpA / 196 Spe  
+Hasty Nature  
+IVs: 14 Def / 29 SpD / 28 Spe  
+- Thunderbolt  
+- Hidden Power [Psychic]  
+- Sucker Punch  
+- Explosion  
+
+Voltorb @ Damp Rock  
+Ability: Static  
+Level: 5  
+EVs: 36 HP / 40 Atk / 236 SpA / 196 Spe  
+Hasty Nature  
+IVs: 21 HP / 13 SpD / 4 Spe  
+- Rain Dance  
+- Thunder  
+- Explosion  
+- Taunt  
+
+Vulpix (M) @ Choice Scarf  
+Ability: Flash Fire  
+Level: 5  
+EVs: 52 HP / 200 SpA / 236 Spe  
+Timid Nature  
+IVs: 7 Atk / 28 Def / 5 SpD  
+- Fire Blast  
+- Energy Ball  
+- Hypnosis  
+- Hidden Power [Dragon]  
+
+Vulpix (F) @ Life Orb  
+Ability: Flash Fire  
+Level: 5  
+EVs: 52 HP / 196 SpA / 236 Spe  
+Timid Nature  
+IVs: 9 Atk / 5 SpD / 13 Spe  
+- Substitute  
+- Fire Blast  
+- Energy Ball  
+- Hypnosis  
+
+Wailmer (F) @ Choice Scarf  
+Ability: Water Veil  
+Level: 5  
+EVs: 36 HP / 76 Def / 200 SpA / 196 Spe  
+Modest Nature  
+IVs: 25 Def / 28 SpD / 24 Spe  
+- Water Spout  
+- Surf  
+- Ice Beam  
+- Hidden Power [Bug]  
+
+Weedle (F) @ Life Orb  
+Ability: Shield Dust  
+Level: 5  
+EVs: 196 HP / 236 Atk / 36 Def / 36 Spe  
+Adamant Nature  
+IVs: 13 Atk / 0 Def / 0 SpD  
+- Bug Bite  
+- Poison Sting  
+- String Shot  
+
+Whismur (M) @ Life Orb  
+Ability: Soundproof  
+Level: 5  
+EVs: 4 HP / 188 Atk / 92 Def / 188 SpA / 12 SpD  
+Brave Nature  
+IVs: 29 Atk / 15 Def / 14 SpA  
+- Return  
+- Thunder Punch  
+- Ice Beam  
+- Shadow Ball  
+
+Wingull (F) @ Life Orb  
+Ability: Keen Eye  
+Level: 5  
+EVs: 240 SpA / 236 Spe  
+Timid Nature  
+IVs: 2 HP / 15 SpD / 17 Spe  
+- Air Slash  
+- Ice Beam  
+- Hidden Power [Dragon]  
+- Brine  
+
+Wingull (M) @ Choice Scarf  
+Ability: Keen Eye  
+Level: 5  
+EVs: 240 SpA / 236 Spe  
+Naive Nature  
+IVs: 9 HP / 25 Atk / 6 SpA  
+- Air Slash  
+- U-turn  
+- Ice Beam  
+- Hidden Power [Electric]  
+
+Wooper (M) @ Oran Berry  
+Ability: Water Absorb  
+Level: 5  
+EVs: 236 HP / 76 Atk / 156 Def  
+Impish Nature  
+IVs: 2 HP / 2 Def / 0 SpA  
+- Earthquake  
+- Ice Punch  
+- Toxic  
+- Recover  
+
+Zigzagoon (M) @ Oran Berry  
+Ability: Pickup  
+Level: 5  
+EVs: 196 Atk / 28 Def / 28 SpD / 196 Spe  
+Adamant Nature  
+- Belly Drum  
+- Extreme Speed  
+- Seed Bomb  
+- Thief  
+
+Zubat (M) @ Choice Scarf  
+Ability: Inner Focus  
+Level: 5  
+EVs: 36 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+IVs: 3 Atk / 13 Def / 30 SpA  
+- Brave Bird  
+- U-turn  
+- Return  
+- Pursuit  
+
+Zubat (F) @ Life Orb  
+Ability: Inner Focus  
+Level: 5  
+EVs: 36 HP / 196 Atk / 196 Spe  
+Jolly Nature  
+IVs: 26 Atk / 0 SpA / 2 Spe  
+- Taunt  
+- Brave Bird  
+- Roost  
+- U-turn  
+
+Snover (F) @ Choice Scarf  
+Ability: Snow Warning  
+Level: 5  
+EVs: 36 HP / 36 Def / 184 SpA / 36 SpD / 200 Spe  
+Timid Nature  
+IVs: 24 SpA / 30 SpD / 8 Spe  
+- Blizzard  
+- Energy Ball  
+- Hidden Power [Flying]  
+- Water Pulse  
+
